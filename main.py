@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLay
 
 #Main app,create objects and settings
 app = QApplication([])  #Allows us to create and execute our app
-main_window = QWidget() #Object of the forms (windows) we will be editing
+main_window = QWidget() #Object to create a new form (window) that we will be editing
 main_window.setWindowTitle("Random Word Maker") #Now we use the modules methods to alter
 main_window.resize(300, 200) #Adjusting the size of the form
 
