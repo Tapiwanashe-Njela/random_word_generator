@@ -27,7 +27,7 @@ row2 = QHBoxLayout() #Creates a row
 row3 = QHBoxLayout() #Creates a row
 
 #Add the objects to the layout using addWidget method; here we can edit the appearance
-row1.addWidget(title, alignment=Qt.AlignCenter) #add a widget; here we add the title label with alignment at the center 
+row1.addWidget(title, alignment=Qt.AlignCenter) #Add a widget; here we add the title label with alignment at the center 
 
 row2.addWidget(text1, alignment=Qt.AlignCenter) #Here we add the title label with alignment at the center 
 row2.addWidget(text2, alignment=Qt.AlignCenter) #Here we add the title label with alignment at the center 
@@ -49,3 +49,5 @@ main_window.setLayout(master_layout) #We then set the master layout as the main 
 #Show and run the app
 main_window.show() #Display the form 
 app.exec_() #Run the app
+
+#current -> https://youtu.be/f_9NBdSAo-g?list=PLH2jpgNkTIv5XmGeqZPv_F_cd4KrLiQd7&t=3445
