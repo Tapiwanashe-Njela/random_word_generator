@@ -3,7 +3,6 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QVBoxLayout, QHBoxLayout #AWLPVH
 from random import choice #allows us to choose a random word from a list
 
-
 #Main app,create objects and settings
 app = QApplication([])  #Allows us to create and execute our app; takes in an empty list ALWAYS
 main_window = QWidget() #Object to create a new form (window) that we will be editing
