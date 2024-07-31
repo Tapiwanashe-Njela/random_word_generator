@@ -3,13 +3,7 @@
 
 <!-- PROJECT SHIELDS -->
 
-
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/Tapiwanashe-Njela/random_word_generator">
-    <img src="Pictures/Screenshot 2024-07-28 121243" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Random Word Generator</h3>
 
@@ -56,7 +50,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screenshot][product-screenshot]](https://github.com/Tapiwanashe-Njela/random_word_generator/blob/main/Pictures/Screenshot%202024-07-28%20121243.png)
+[![Product Screenshot]![image](https://github.com/user-attachments/assets/a026976f-1696-443b-a9fd-816d6e50affd)
+](https://github.com/Tapiwanashe-Njela/random_word_generator/blob/main/Pictures/Screenshot%202024-07-28%20121243.png)
 
 This project is a simple PyQt5-based GUI application that generates and displays random words from a predefined list when buttons are clicked. It's a great starting point for those interested in learning how to use PyQt5 for GUI applications in Python.
 
@@ -140,17 +135,12 @@ If you have a suggestion that would make this project better, please fork the re
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/Tapiwanashe-Njela/random_word_generator](https://github.com/Tapiwanashe-Njela/random_word_generator)
+Linkedin Link: [https://www.linkedin.com/in/sean-njela](https://www.linkedin.com/in/sean-njela)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
